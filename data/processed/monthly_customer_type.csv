@@ -1,0 +1,26 @@
+invoice_month,customer_type_monthly,customers,orders,revenue
+2010-12,New customer,885,1400,572713.89
+2011-01,New customer,417,470,293207.35000000003
+2011-01,Returning customer,324,517,276237.69
+2011-02,New customer,380,422,158142.07
+2011-02,Returning customer,378,575,288995.28
+2011-03,New customer,452,500,200069.96
+2011-03,Returning customer,522,821,395430.8
+2011-04,New customer,300,339,122011.491
+2011-04,Returning customer,556,810,347188.87
+2011-05,New customer,284,328,124103.78
+2011-05,Returning customer,772,1227,554490.78
+2011-06,New customer,242,270,135742.95
+2011-06,Returning customer,749,1123,525470.74
+2011-07,New customer,188,213,74008.751
+2011-07,Returning customer,761,1118,526082.26
+2011-08,New customer,169,182,79756.1
+2011-08,Returning customer,766,1098,565587.8
+2011-09,New customer,299,336,155103.901
+2011-09,Returning customer,967,1419,797734.481
+2011-10,New customer,358,424,174721.76
+2011-10,Returning customer,1006,1505,864597.03
+2011-11,New customer,323,397,136592.12
+2011-11,Returning customer,1341,2260,1025225.26
+2011-12,New customer,41,43,27059.46
+2011-12,Returning customer,574,735,491133.33
