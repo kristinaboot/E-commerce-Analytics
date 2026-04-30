@@ -328,18 +328,24 @@ A SQLite database can be used for local SQL analysis:
 data/processed/ecommerce_analytics.sqlite
 ```
 
-## Dashboard Plan
+## Dashboard 
 
-A BI dashboard is planned as the next step.
+An interactive dashboard was built in **Yandex DataLens** to summarize the main business insights from the analysis.
+The dashboard includes:
 
-tools:
-- Yandex DataLens
+- sales performance overview;
+- monthly revenue and orders;
+- country and product performance;
+- one-time vs repeat customer analysis;
+- cohort retention;
+- RFM customer segmentation.
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![dashboard_overview.png](dashboard/dashboard_overview.png)
+![sales_performance.png](dashboard/sales_performance.png)
+![customer_analysis.png](dashboard/customer_analysis.png)
+![retention_analysis.png](dashboard/retention_analysis.png)
+![rfm_segmentation.png](dashboard/rfm_segmentation.png)
+
 
 https://datalens.ru/7hot6vhrvgmqr
 
