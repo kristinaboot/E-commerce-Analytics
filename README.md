@@ -9,6 +9,24 @@ End-to-end e-commerce analytics project focused on sales performance, customer b
 **Описание проекта:** в проекте выполнена очистка данных, анализ продаж, customer analysis, cohort retention и RFM-сегментация. Результаты подготовлены для дальнейшего построения BI-dashboard в Yandex DataLens или Tableau.
 
 ---
+## Dataset Source
+
+This project uses the **Online Retail** dataset from the UCI Machine Learning Repository.
+
+Dataset page: https://archive.ics.uci.edu/dataset/352/online+retail
+
+Citation:
+
+> Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
+
+The dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+Original dataset description:
+
+> This is a transactional dataset containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail business.
+> 
+> 
+> ---
 
 ## Project Overview
 
@@ -21,12 +39,11 @@ The analysis covers:
 - customer behavior analysis;
 - cohort retention analysis;
 - RFM segmentation;
-- SQL-based analytical queries;
-- dashboard-ready processed datasets.
+- SQL-based analytical queries.
+- 
+The dashboard is planned as a separate next step using **Yandex DataLens** 
 
-The dashboard is planned as a separate next step using **Yandex DataLens** or **Tableau**.
-
-## Business Questions
+## Questions
 
 The project answers the following questions:
 
